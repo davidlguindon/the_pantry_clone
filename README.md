@@ -1,3 +1,3 @@
 # the_pantry_clone
 
-GitHub Checkpoint Assignment test
+GitHub Checkpoint Assignment
